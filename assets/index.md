@@ -86,7 +86,7 @@ Expand your knowledge and skills with our expert-led workshops:
 * The MosaeSat Team: [www.mosaezorg.com](www.mosaezorg.com)
 
 ## Partners
-* Quantum Technology EU: [https://qt.eu/](https://qt.eu/)
+* Coming soon! Quantum Technology EU: [https://qt.eu/](https://qt.eu/)
 * Netherlands Enterprise Agency (RVO): [https://www.rvo.nl/](https://www.rvo.nl/)
 
 ## Additional Resources

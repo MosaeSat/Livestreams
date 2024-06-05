@@ -18,7 +18,9 @@ social-website: "www.mosaezorg.com"
 social-email: fhcampbell@mosaezorg.com
 
 # Build Settings
-theme: minima
+# theme: minima
+remote_theme: MosaeSat/flexible-jekyll
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap  # Optional, but recommended for SEO

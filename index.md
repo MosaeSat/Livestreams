@@ -3,7 +3,7 @@ layout: home
 title: Live Stream Hub
 ---
 
-# Welcome to the Live Stream Hub!
+# Welcome to the Live Stream Jub!
 
 Harnessing the power of satellite data and quantum computing to revolutionize pathogen research and drug discovery. We provide access to real-time and near real-time satellite imagery, empowering researchers, scientists, educators, and citizen scientists to gain insights into pathogen evolution, environmental factors, and potential disease outbreaks.
 

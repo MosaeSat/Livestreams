@@ -29,7 +29,8 @@ Connect with us in real-time through our live streams on multiple platforms:
 
 ### YouTube (MosaeZorg Channel)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCe848Qm8e9QiwO6F9_yMZHg" title="YouTube live stream player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UC0HINA2SuDkovyA-pCOrFCg" title="YouTube live stream player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ### Twitch (mosaezorg)

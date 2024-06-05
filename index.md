@@ -2,7 +2,9 @@
 layout: home
 title: Live Stream Hub
 ---
-
+<div class="logo-container">
+  <img src="{{ site.author_img }}" alt="MosaeSat Logo" class="logo">
+</div>
 # Welcome to the Live Stream Hub!
 
 Harnessing the power of satellite data and quantum computing to revolutionize pathogen research and drug discovery. We provide access to real-time and near real-time satellite imagery, empowering researchers, scientists, educators, and citizen scientists to gain insights into pathogen evolution, environmental factors, and potential disease outbreaks.

@@ -1,17 +1,20 @@
 ---
 layout: home
-title: Live Stream Hub
+title: MosaeSat(TM) Livestream Hub
 ---
 <div class="logo-container">
   <img src="{{ site.author_img }}" alt="MosaeSat Logo" class="logo">
 </div>
-# Welcome to the Live Stream Hub!
+# Welcome to the MosaeZorg Data Hub!
 
+
+
+Odinn's Auga:
 Harnessing the power of satellite data and quantum computing to revolutionize pathogen research and drug discovery. We provide access to real-time and near real-time satellite imagery, empowering researchers, scientists, educators, and citizen scientists to gain insights into pathogen evolution, environmental factors, and potential disease outbreaks.
 
 ## About the Project
 
-The Live Stream Hub is an open-source project that aims to accelerate biomedical research by leveraging the unique capabilities of satellite data and quantum computing. By aggregating live streams and near real-time data from various satellite missions, we're creating a platform for:
+The MosaeSat(TM) hub is an open-source project that aims to accelerate biomedical research by leveraging the unique capabilities of satellite data and quantum computing. By aggregating live streams and near real-time data from various satellite missions, we're creating a platform for:
 
 * **Real-time Disease Surveillance:**  Monitor potential disease outbreaks and track the spread of pathogens in real time.
 * **Environmental Impact Analysis:** Understand how environmental factors influence pathogen evolution and transmission.

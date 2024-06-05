@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: MosaeSat(TM) Livestream Hub
 ---
 <div class="logo-container">
